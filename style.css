@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(165, 206, 242);
+}
+.row1col2,
+.row4col2 {
+  background-color: rebeccapurple;
+}
